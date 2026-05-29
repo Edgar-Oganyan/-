@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "Name": "Смартфон Galaxy S22",
+    "Price": 49999.99,
+    "Category": "Электроника",
+    "StockCount": 15,
+    "Availability": "InStock"
+  },
+  {
+    "Id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "Name": "Батон",
+    "Price": 59,
+    "Category": "Хлебобулочное изделие",
+    "StockCount": 400,
+    "Availability": "InStock"
+  }
+]
